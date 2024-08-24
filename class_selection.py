@@ -13,7 +13,7 @@ Output is stored in output.md.
 
 # Alter this list to select all the SBCs you want to sort for
 # If you want to sort all courses by # of SBCs met, set this to []
-all_desired_SBCs = ['HUM', 'GLO']
+all_desired_SBCs = ['HUM', 'GLO', 'STAS']
 
 
 ############################################
